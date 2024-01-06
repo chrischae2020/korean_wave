@@ -1,0 +1,7 @@
+lr_line.png
+
+This is a linear regression plot where the points are the data points and the line is the linear regression line created by the model.
+We picked this model to show the correlation between 'proportion english' and 'views' in a clear visualization. 
+There isn't a better way to show a linear regression line without a line plot, but it would be possible to show correlaton using clustering.
+The only challenge in creating the visualization was overlaying the line on the scatter point, but matplotlib was good for this graph.
+This graph is good enough without context because of the title and the x/y axes labels and it is clear there is a linear regression line plotted. 
